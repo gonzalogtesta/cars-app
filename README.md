@@ -31,7 +31,7 @@ Image build with:
 
 Image build with mongo configuration:
 
-> mvn -Dmongo.config="-Dspring.data.mongodb.uri=mongodb+srv://<user>:<pass>@<server>/<db>" install dockerfile:build
+> mvn -Dmongo.config="-Dspring.data.mongodb.uri=mongodb+srv://\<user\>:\<pass\>@\<server\>/\<db\>" install dockerfile:build
 
 Upload to docker hub:
 

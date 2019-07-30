@@ -3,7 +3,7 @@
 SysOne - Cars administration app
 
 
-App deployed under: http://apps-sysone-app.apps.us-east-2.online-starter.openshift.com/
+App deployed under: http://apps-sysone-app.apps.us-east-2.online-starter.openshift.com/cars
 
 Using MongoDB Atlas instance for DB persistance.
 

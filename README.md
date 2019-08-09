@@ -1,13 +1,10 @@
 # README #
 
-SysOne - Cars administration app
+Cars administration app
 
+Using MongoDB instance for DB persistance.
 
-App deployed under: http://apps-sysone-app.apps.us-east-2.online-starter.openshift.com/cars
-
-Using MongoDB Atlas instance for DB persistance.
-
-SpringBoot runs under 8080 locally, but it's configured to run under port 80 in OpenShift.
+SpringBoot runs under 8080 locally.
 
 
 ## Technologies ##

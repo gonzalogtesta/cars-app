@@ -2,9 +2,9 @@
 
 Cars administration app
 
-Using MongoDB instance for DB persistance.
+Using SpringBoot and MongoDB for persistance.
 
-SpringBoot runs under 8080 locally.
+Runs under 8080 locally.
 
 
 ## Technologies ##
